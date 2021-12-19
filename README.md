@@ -1,6 +1,6 @@
 # ELECTRON DESKTOP APPLICATIONS
 
-Desktop Applications Built Using either plane Vanilla JavaScripts or with ReactJS and Redux 
+Desktop Applications Built Using either plan Vanilla JavaScripts or with ReactJS and Redux 
 
 Applications Include: 
   - Image Shrinking app
